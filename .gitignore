@@ -4,3 +4,6 @@
 target/
 temp/
 testdata/
+reference/
+python/uv.lock
+scripts/
